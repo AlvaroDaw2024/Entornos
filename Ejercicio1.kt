@@ -11,4 +11,8 @@ fun main() {
             println("el numero para la posicion ${x + 1} es: ${num[x]}...")
             Thread.sleep(1000)
         }
+    for (i in 1..100){
+        suma=suma + i
+        print("Alvaroooooooooooooo titan")
+    }
 }
