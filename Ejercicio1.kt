@@ -11,4 +11,5 @@ fun main() {
             println("el numero para la posicion ${x + 1} es: ${num[x]}...")
             Thread.sleep(1000)
         }
+    print("hola wenas")
 }
